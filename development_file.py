@@ -1,1 +1,1 @@
-print("this file is a development file; I want no conflict Here")
+print("this file is a development file; let's change it into a conflict!")
